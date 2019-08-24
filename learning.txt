@@ -1,0 +1,6 @@
+Git log
+Git add learning.txt
+Git commit -m 'xxx'
+Git status
+Git diff xxx.txt
+Git --hard xxx
